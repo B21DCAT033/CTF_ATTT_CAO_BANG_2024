@@ -1,5 +1,5 @@
-# Security Policy
+# Diễn Tập An Toàn Thông Tin Cao Bằng 2024 
 
-## Reporting a Vulnerability
+## Trung Tâm Công Nghệ Số Cục Chuyển Đối Số Quốc Gia
 
-**Do not open up a GitHub issue if the bug is a security vulnerability in CTFd**. Instead [email the details to us at support@ctfd.io](mailto:support@ctfd.io).
+
