@@ -41,7 +41,7 @@ Yêu cầu phiên bản Ubuntu 22.04 trở lên và thực hiện các lệnh sa
 4. ```sudo chmod +x docker-entrypoint.sh```
 5. ```sudo docker-compose up -d```
 
-Try cập vào đường dẫn http://ip:8000 (ip là địa chỉ IPv4 của máy chủ cài CTF) để kiểm tra việc cài đặt thành công hay chưa
+Truy cập vào đường dẫn http://ip:8000 (ip là địa chỉ IPv4 của máy chủ cài CTF) để kiểm tra việc cài đặt thành công hay chưa
 
 ## Tài Khoản Đăng Nhập Hệ Thống
 ### Admin: HiepDX_1990/HiepDX_1990 (Username/Password Dùng để tạo quản lý challenge, tạo tài khoản người chơi)
