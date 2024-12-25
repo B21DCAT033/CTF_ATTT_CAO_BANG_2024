@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/CTFd-3.7.4/CTFd/plugins/CTFd_first_blood" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CTFd-3.7.4/CTFd/plugins/ctfd-single_rank" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CTFd-3.7.4/CTFd/themes/CTFd-PlaygroundsCTF-Theme" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CTFd-3.7.4/CTFd/themes/CTFd-xmas-theme" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CTFd-3.7.4/CTFd/themes/ctfd-theme-wreckit5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CTFd-3.7.4/CTFd/themes/ctfd-waves-theme" vcs="Git" />
+  </component>
+</project>
